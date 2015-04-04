@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Empezando con liftweb
+title:  Paradigmas en C
 date:   2014-09-09 19:49:00
 ---
 
