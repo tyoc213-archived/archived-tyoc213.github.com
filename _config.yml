@@ -1,0 +1,14 @@
+# Site settings
+title: tyoc213
+email: tyoc213@tyoc.mx
+description: >
+    Personal byte log sobre desarrollo de juegos, 3D, Sistemas Operativos,
+    Inteligencia Artificial, R&D de lenguajes
+    y otras cosas entretenidas
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tyoc213.github.io" # the base hostname & protocol for your site
+twitter_username: tyoc213
+github_username:  tyoc213
+
+# Build settings
+#markdown: kramdown
